@@ -11,10 +11,10 @@ To write a program to predict daily temperature , PM2.5 pollution level and Ener
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Import the required libraries and load the dataset containing customer details.
+1. Import the required libraries and load the dataset containing customer details.
 2. Select relevant features (Annual Income and Spending Score) for clustering.
 3. Initialize the K-Means model with a predefined number of clusters (k = 5) and fit the model to the selected data.
-6. Assign cluster labels to each data point and append the cluster information to the dataset.
+4. Assign cluster labels to each data point and append the cluster information to the dataset.
 5. Visualize the clusters along with their centroids using a scatter plot to analyze customer segmentation.
 
 ## Program:
